@@ -1,0 +1,208 @@
+.page-template-page-landing {
+
+  section {
+    &.banner {
+      min-height:300px;
+
+      @media screen and (max-width:$mediaTablet){
+        min-height:200px;
+      }
+      .content {
+        h1 {
+          font-size:3em;
+          margin:0;
+          @media screen and (max-width:$mediaTablet){
+            font-size:1.5em;
+          }
+        }
+      }
+    }
+    &.sample-form {
+      padding:2em 0 1em;
+      background: #ebebeb;
+      span {
+        text-transform:uppercase;
+        display:block;
+        line-height:100%;
+        font-weight:600;
+        &.text {
+          &-red {
+            color:$color-primary;
+            font-size:3.7em;
+            @media screen and (max-width:$mediaTablet){
+              font-size:2.3em;
+            }
+            @media screen and (max-width:$mediaPhone){
+              font-size:1.5em;
+            }
+          }
+          &-black {
+            color:$color-secondary;
+            font-size:1.65em;
+            @media screen and (max-width:$mediaTablet){
+              font-size:1em;
+            }
+          }
+        }
+      }
+      form {
+        width:480px;
+        margin:1em auto;
+
+        @media screen and (max-width:530px){
+          width:100%;
+        }
+        input {
+          width:100%;
+
+          margin:.5em auto;
+        }
+        button.button {
+          margin:.5em auto;
+          text-transform:uppercase;
+        }
+        .check_box{
+          &.left{
+            input{
+              height: 30px;
+            }
+          }
+          &.left{
+
+          }
+        }
+      }
+      .wrapper {
+        @media screen and (max-width:400px){
+          width:98%;
+        }
+      }
+    }
+    &.testimonials {
+      padding:3em 0;
+      em {
+        color:white;
+        font-weight:normal;
+      }
+    }
+    &.additional-links {
+      .category {
+        padding:0 0 1.5em;
+        text-align:center;
+        cursor:pointer;
+        &.col-4 {
+          width:25%;
+          @media screen and (max-width:850px){
+            width:33%;
+            margin:.5em auto;
+          }
+          @media screen and (max-width:650px){
+            width:50%;
+          }
+          @media screen and (max-width:450px){
+            width:100%;
+          }
+        }
+        strong {
+          display:block;
+          margin:.5em auto;
+          line-height:120%;
+          font-size:.8em;
+          font-weight:600;
+          text-transform:uppercase;
+        }
+        .hidden {
+          position:absolute;
+          width:100%;
+          height:100%;
+          top:0;
+          left:0;
+          @include backgroundAlpha(black,.7);
+          @include transition(linear .2s all);
+          @include transform(scale(0,0));
+          @include transform-origin(center);
+          strong {
+            position:absolute;
+            top:50%;
+            display:block;
+            left:50%;
+            text-align:center;
+            font-size:1em;
+            font-weight:600;
+            margin:auto;
+            max-width:90%;
+            color:white;
+            @include transform(translate(-50%,-50%));
+          }
+        }
+        .image {
+          position:relative;
+          height:200px;
+          width:200px;
+          margin:0 auto;
+        }
+        &:hover {
+          .hidden {
+            @include transform(scale(1, 1));
+          }
+        }
+      }
+      .button {
+        font-size:2.5em;
+        color:white;
+        text-transform:uppercase;
+        max-width:500px;
+        margin:1em auto;
+        clear:both;
+        @media screen and (max-width:600px){
+          max-width:300px;
+          font-size:1em;
+        }
+      }
+    }
+    &.list {
+      padding:1em 0 2em;
+      ul {
+        @include ulReset;
+        @media screen and (max-width:$mediaTablet){
+          max-width:60%;
+          margin:0 auto;
+        }
+        @media screen and (max-width:600px){
+          max-width:80%;
+        }
+        @media screen and (max-width:$mediaPhone){
+          max-width:100%;
+        }
+      }
+      li {
+        display:block;
+        float:left;
+        width:50%;
+        margin:.5em 0;
+        @media screen and (max-width:$mediaTablet){
+          width:90%;
+          margin:.5em 1em;
+          font-size:.8em;
+        }
+        @media screen and (max-width:$mediaPhone){
+          font-size:.7em;
+        }
+        img {
+          margin-right:1em;
+        }
+      }
+    }
+
+    &.main_text{
+      background-color: #ebebeb;
+      padding: 40px 0;
+      text-align: center;
+      a{
+        color: #8d0003;
+      }
+    }
+  }
+
+}
+

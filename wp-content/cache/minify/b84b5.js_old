@@ -1,0 +1,175 @@
+<!--
+document.oncontextmenu = function() {
+   return false;
+}
+
+function verify(f) {
+  var msg = '';    
+  if (f.organization.value == '') { msg = 'Please enter the name of the organization to whom you will be donating bricks.'; f.organization.focus(); }
+  else if (f.name.value == '') { msg = 'Please enter your name.'; f.name.focus(); }
+  
+  //code for https://www.bricksrus.com/order/bethisrael/index.php added on 2/2/2010
+  else if (f.CustomerID.value == 'CBIS' && f.company.value == '') { msg = 'Please enter your company.'; f.company.focus(); }
+  //code for https://www.bricksrus.com/order/nuhealth/index.php added on 5/23/2011
+  else if (f.CustomerID.value == 'NUHF' && f.DonorCustomFields_Affiliation.value == 'none') { msg = 'Please select your Affiliation.'; f.DonorCustomFields_Affiliation.focus(); }
+  else if (f.CustomerID.value == 'SBMSA' && f.DonorCustomFields_Locations.value == 'none') { msg = 'Please select your Location.'; f.DonorCustomFields_Locations.focus(); }
+  else if (f.CustomerID.value == 'PROHS' && f.DonorCustomFields_Locations.value == 'none') { msg = 'Please select your Location.'; f.DonorCustomFields_PHSAffiliation.focus(); }
+  else if (f.CustomerID.value == 'EHGN' && f.DonorCustomFields_BrickPlacement.value == 'none') { msg = 'Please select your Brick Placement.'; f.DonorCustomFields_EHGNBrickPlacement.focus(); }
+  else if (f.CustomerID.value == 'MWCNT' && f.DonorCustomFields_BrickPlacement.value == 'none') { msg = 'Please select your Total Needed.'; f.DonorCustomFields_EHGNTotalNeeded.focus(); }
+  else if (f.CustomerID.value == 'OLLA' && f.DonorCustomFields_Locations.value == 'none') { msg = 'Please choose a location'; f.DonorCustomFields_Locations.focus(); }
+  else if (f.CustomerID.value == 'FSTST' && f.DonorCustomFields_Projects.value == 'none') { msg = 'Please choose a Project to continue'; f.DonorCustomFields_Projects.focus(); }
+  else if (f.CustomerID.value == 'UOMS' && f.DonorCustomFields_Support.value == 'none') { msg = 'Please select the My Brick Will Support Field.'; f.DonorCustomFields_Support.focus(); }
+  else if (f.CustomerID.value == 'CBDS' && f.DonorCustomFields_SchoolLocation.value == 'none') { msg = 'Please select the school location.'; f.DonorCustomFields_SchoolLocation.focus(); }
+  else if (f.CustomerID.value == 'JHF' && f.DonorCustomFields_Laid.value == 'none') { msg = 'Please select where brick will be laid.'; f.DonorCustomFields_Laid.focus(); }
+  else if (f.CustomerID.value == 'HIGHS' && f.DonorCustomFields_Program.value == 'none') { msg = 'Please select which program you wish to donate to.'; f.DonorCustomFields_Program.focus(); }
+
+
+
+
+
+
+  else if (f.address.value == '') { msg = 'Please enter your address.'; f.address.focus(); }
+  else if (f.city.value == '') { msg = 'Please enter your city.'; f.city.focus(); }
+  else if (f.state.options[0].selected) { msg = 'Please enter your state or province.'; f.state.focus(); }
+  else if (f.zip.value == '') { msg = 'Please enter your zip code.'; f.zip.focus(); }
+  else if (f.phone.value == '') { msg = 'Please enter your phone number.'; f.phone.focus(); }
+  else if (f.email.value == '') { msg = 'Please enter your e-mail address.'; f.email.focus(); }
+  else if (f.email.value.indexOf('@') == -1) { msg = 'Please enter a valid e-mail address.'; f.email.focus(); }
+  else if (f.email.value.indexOf('.') == -1) { msg = 'Please enter a valid e-mail address.'; f.email.focus(); }
+  else if (f.NumberBricks != undefined) {
+	if (f.NumberBricks.value == '' || f.NumberBricks.value < 1) { msg = 'Please enter the number of bricks you want to order. You must enter a number equal to or greater than 1.'; f.NumberBricks.focus(); }
+  }
+  else if (f.BrickLines.options[0].selected) { msg = 'Please select the brick size that you are interested in.'; f.BrickLines.focus(); }
+  else if (f.DonationAmount.value == '') { 	
+  	document.getElementById('DonationAmount').readonly = false;
+	document.getElementById('DonationAmount').style.border = '1px solid #FF0000';
+  	msg = 'Please enter the amount of your donation.';
+	f.DonationAmount.focus();
+  }
+/* moved and ported to more appropriate section by drewadesigns.com on 4/9/2018
+  var xhr = new XMLHttpRequest();
+  xhr.open('GET', 'https://www.bricksrus.com/webservice/apns.php?customer_id=' + f.CustomerID.value, true);
+  xhr.onreadystatechange = function(){
+  	if(xhr.readyState === XMLHttpRequest.DONE && xhr.status === 200){
+  		console.log('Notification Sent');
+	}
+  };
+  xhr.send();
+*/
+  if (msg != '') {
+    alert(msg);
+    return false;
+  }
+}
+
+function formatPhone(e) {
+    var s = e.value;
+	if ('(' == s) t = s;
+	else {
+		s = s.replace(/[^0-9]/gi, "");
+		if (s.length == 0) t = '';
+		else if (s.length <= 2) t = '(' + s;
+		else if (s.length <= 3) t = '(' + s + ') ';
+		else if (s.length <= 5)  t = '(' + s.substr(0,3) + ') ' + s.substr(3,2);
+		else t = '(' + s.substr(0,3) + ') ' + s.substr(3,3) + '-' + s.substr(6,4);
+	}
+	e.value = t;
+}
+
+function formatNumber (n) {
+  n = Math.round(n * 100) / 100;
+  if (n < 0) { n = n - 0.01 }
+  n = (n + 0.001) + '';
+  return n.substring(0, n.indexOf('.') + 3);
+}
+
+function verifyNumber(e) {
+    var s = e.value;
+    s = s.replace(/[^0-9]/gi, "");
+    e.value = s;
+}
+
+function autoAmount(f) {
+	var amount = 0;
+	var AdditionalDiscount = 0;
+	var DonorBrickPONumber = '';
+	var DonorCertificatePONumber = '';
+	var DonorCertificatePrice = 8.00; //default: will be changed later on if specified in arrBrickLines[7]
+	var VirtualBrickPrice = 12.00; //default: will be changed later on if specified in arrBrickLines[9]
+	if (f.BrickLines.value != 'none') { 
+		var arrBrickLines = f.BrickLines.value.split('--');
+		
+		//check for multi-brick option and split price and number
+		PriceNumber = arrBrickLines[3];
+		PriceNumberAstPos = PriceNumber.search(/\*/gi);
+		if (PriceNumberAstPos > 0) { 
+			var arrPriceNumber = PriceNumber.split('*');
+			if (f.NumberBricks != undefined) f.NumberBricks.value = arrPriceNumber[1];
+			arrBrickLines[3] = arrPriceNumber[0];
+		}
+		//check for multi-brick option and split price and number for additional bricks
+		if (arrBrickLines[5] != undefined) {
+			PriceNumberAddl = arrBrickLines[5];
+			PriceNumberAddlAstPos = PriceNumberAddl.search(/\*/gi);
+			if (PriceNumberAddlAstPos > 0) { 
+				var arrPriceNumberAddl = PriceNumberAddl.split('*');
+				arrBrickLines[5] = arrPriceNumber[0];
+			}
+			AdditionalDiscount = arrBrickLines[3] - arrBrickLines[5];
+		}
+		
+		if (arrBrickLines[3]) amount += parseFloat(arrBrickLines[3]); //add price of brick		
+	
+		if (amount > 0) {
+			if (f.DonorBrick) {
+				if (arrBrickLines[2] != undefined) DonorBrickPONumber = arrBrickLines[2]; else DonorBrickPONumber = 0;
+				if (DonorBrickPONumber == 0) {
+					f.DonorBrick.value = 0;
+					f.DonorBrick.disabled = true;
+					f.DonorBrick.style.color = '#999';
+				}
+				else {
+					f.DonorBrick.disabled = false;
+					f.DonorBrick.style.color = '#000';
+				}
+				if (arrBrickLines[4] && f.DonorBrick.value == 1) amount += parseFloat(arrBrickLines[4]); //add price of donor brick
+			}
+			if (f.DonorCertificate) {
+				if (arrBrickLines[6] != undefined) DonorCertificatePONumber = arrBrickLines[6]; else DonorCertificatePONumber = 0;
+				if (DonorCertificatePONumber == 0) {
+					f.DonorCertificate.value = 0;
+					f.DonorCertificate.disabled = true;
+					f.DonorCertificate.style.color = '#999';
+				}
+				else {
+					f.DonorCertificate.disabled = false;
+					f.DonorCertificate.style.color = '#000';
+				}
+				//get donor certificate price (if different)
+				if (arrBrickLines[7] != undefined) DonorCertificatePrice = arrBrickLines[7];
+				if (f.DonorCertificate.value != 0) amount += parseFloat(DonorCertificatePrice); //add price of donor certificate
+				//get virtual brick price (if different)
+				if (arrBrickLines[9] != undefined && parseFloat(arrBrickLines[9]) > 0) {
+						VirtualBrickPrice = arrBrickLines[9];
+						if (f.VirtualBrick != undefined) {
+							if (f.VirtualBrick.value != 0) amount += parseFloat(VirtualBrickPrice); //add price of virtual bricks
+						}
+				}
+			}
+		}
+		if (f.NumberBricks != undefined) {
+			if (f.NumberBricks.value < 1 || f.NumberBricks.value == '') NumBricks = 1; else NumBricks = f.NumberBricks.value;
+			amount = amount * NumBricks - (AdditionalDiscount * (NumBricks - 1));
+		}
+	}
+	if (amount > 0) f.DonationAmount.value = formatNumber(amount); else f.DonationAmount.value = '';
+}
+
+function setAmountReadOnly(editable) {
+	if (editable != 1) {
+		document.getElementById('DonationAmount').readOnly = true;
+		document.getElementById('DonationAmount').style.border = 'none';
+	}
+	autoAmount(document.forms[0]);
+}
+//-->

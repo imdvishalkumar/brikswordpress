@@ -1,0 +1,25 @@
+�vLf<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:6690;s:11:"post_author";s:2:"12";s:9:"post_date";s:19:"2023-08-03 09:12:57";s:13:"post_date_gmt";s:19:"2023-08-03 13:12:57";s:12:"post_content";s:4054:"Are you planning an engraved brick fundraiser? Look no further than Bricks R Us, the leading brick engraving company in the country. With over 30 years of experience in the industry, Bricks R Us offers a wide range of tools and services to ensure the success of your fundraising campaign. Here are 10 essential tools and services provided by Bricks R Us that will make your engraved brick fundraiser a success:
+<h2><b>Free Tools and Services </b></h2>
+Bricks R Us offers a range of free tools and services to assist you in your fundraising efforts. From donor sites and order form templates to an online ordering system, these resources make it easy for you to sell bricks and manage your campaign.
+<h2><b>Outstanding Customer Support </b></h2>
+Bricks R Us prides itself on its outstanding customer support. Their team of experts is always available to answer any questions and provide guidance throughout the entire fundraising process. You can rely on their expertise to ensure a smooth and successful campaign.
+<h2><b>High-Quality Products </b></h2>
+With Bricks R Us, you can expect high-quality engraved bricks that will stand the test of time. Their attention to detail and commitment to excellence ensure that every brick is engraved with precision and care.
+<h2><b>Proven Consulting Experience</b></h2>
+Bricks R Us has extensive experience in the fundraising industry. They have helped countless organizations achieve their fundraising goals and can provide valuable insights and strategies to make your campaign a success.
+<h2><b>Low Price Guarantee</b></h2>
+Bricks R Us offers a low price guarantee, ensuring that everyone has a chance to contribute and help raise money for your organization. With no upfront costs and the ability to keep the campaign ongoing for years, fundraising with engraved bricks becomes a sustainable and profitable endeavor.
+<h2><b>Customization Options</b></h2>
+Bricks R Us offers endless possibilities for customization. You can choose from various brick styles, sizes, colors, and symbols to create a truly personalized fundraising campaign. Whether you want to install the bricks in walkways, plazas, or indoor corridors, Bricks R Us can accommodate your unique vision.
+<h2><b>Testimonials</b></h2>
+Bricks R Us has a proven track record of success. With testimonials from satisfied customers who have had exceptional experiences with the company, you can trust that Bricks R Us will deliver on their promises. These testimonials serve as a testament to the outstanding service and quality products provided by Bricks R Us.
+<h2><b>Fundraising Tips and Resources </b></h2>
+To support your fundraising efforts, Bricks R Us provides valuable tips and resources to help you maximize your results. From marketing strategies to engagement tactics, these resources will empower you to run a successful campaign.
+<h2><b>Social Media Presence</b><b> </b></h2>
+Bricks R Us understands the importance of social media in today's fundraising landscape. They actively engage with their audience on platforms such as TikTok, offering ideas and inspiration for nonprofits looking to utilize this powerful tool.
+<h2><b>Free Brick Sample</b></h2>
+To give you a taste of the quality and craftsmanship of their engraved bricks, Bricks R Us offers a free brick sample. Simply provide your contact information, and they will ship a sample brick right to your doorstep.
+<h2><b>Conclusion</b></h2>
+In conclusion, Bricks R Us is the ultimate destination for engraved brick fundraisers. With their extensive range of tools and services, outstanding customer support, and high-quality products, Bricks R Us has everything you need to make your fundraising campaign a resounding success. Start raising funds and creating lasting memories today by visiting http://www.bricksrus.com/.
+
+Visit <a href="http://www.bricksrus.com">http://www.bricksrus.com/</a> to discover how Bricks R Us can help you achieve your fundraising goals and create lasting memories with engraved bricks. Start your successful campaign today!";s:10:"post_title";s:80:"10 Essential Tools And Services To Make Your Engraved Brick Fundraiser A Success";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:80:"10-essential-tools-and-services-to-make-your-engraved-brick-fundraiser-a-success";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2023-10-07 13:10:35";s:17:"post_modified_gmt";s:19:"2023-10-07 17:10:35";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:33:"https://www.bricksrus.com/?p=6690";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

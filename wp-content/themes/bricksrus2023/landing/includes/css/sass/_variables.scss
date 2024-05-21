@@ -1,0 +1,22 @@
+$mediaSmallDesktop: 960px;
+$mediaTablet: 768px;
+$mediaPhone: 480px;
+
+/* COLOR: RED */
+$color-primary:#af0e13;
+$color-primary-dark:#8d0003;
+$color-primary-light:lighten($color-primary,20%);
+
+/* COLOR: DARK GRAY */
+$color-secondary:#131313;
+$color-secondary-dark:darken($color-secondary,20%);
+$color-secondary-light:#252525;
+
+/* COLOR: BASIC */
+$color-shadow:#A1A1A1;
+$color-offwhite:#ebebeb;
+$color-font:#222222;
+$color-gray:#616161;
+
+$font-primary: 'Source Sans Pro', sans-serif;
+$font-awesome: 'FontAwesome';

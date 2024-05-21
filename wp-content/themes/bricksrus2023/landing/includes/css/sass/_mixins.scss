@@ -1,0 +1,73 @@
+@mixin background-cover-nourl {
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-size:cover;
+  -ms-behavior: url('/landing/includes/backgroundsize.min.htc');
+}
+
+@mixin transform-origin($args){
+  -webkit-transform-origin: $args;
+  -moz-transform-origin: $args;
+  -ms-transform-origin: $args;
+  -o-transform-origin: $args;
+  transform-origin: $args;
+}
+
+@mixin boxShadow($args){
+  box-shadow: unquote($args);
+  -moz-box-shadow: unquote($args);
+  -webkit-box-shadow: unquote($args);
+}
+
+@mixin borderRadius($args){
+  border-radius:unquote($args);
+  -o-border-radius:unquote($args);
+  -moz-border-radius:unquote($args);
+  -webkit-border-radius:unquote($args);
+}
+
+@mixin transform($args){
+  transform:unquote($args);
+  -o-transform:unquote($args);
+  -ms-transform:unquote($args);
+  -moz-transform:unquote($args);
+  -webkit-transform:unquote($args);
+}
+
+@mixin transition($args){
+  transition:unquote($args);
+  -o-transition:unquote($args);
+  -moz-transition:unquote($args);
+  -webkit-transition:unquote($args);
+}
+
+@mixin backgroundAlpha($color,$alpha){
+  background:$color;
+  background:rgba($color,$alpha);
+}
+
+@mixin clear {
+  *zoom:1;
+
+  &:before,&:after {
+    content:' ';
+    display:table;
+  }
+
+  &:after {
+    clear:both;
+  }
+}
+
+@mixin ulReset {
+  padding:0;
+  margin:0;
+  list-style: none;
+}
+
+@mixin animate($name,$length,$timing,$delay){
+  animation:$name $length $timing $delay;
+  -webkit-animation: $name $length $timing $delay;
+  -moz-animation: $name $length $timing $delay;
+  -o-animation: $name $length $timing $delay;
+}

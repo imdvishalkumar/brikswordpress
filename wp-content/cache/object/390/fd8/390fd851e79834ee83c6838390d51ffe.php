@@ -1,0 +1,10 @@
+�vLf<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:2607;s:11:"post_author";s:2:"12";s:9:"post_date";s:19:"2016-03-15 08:03:11";s:13:"post_date_gmt";s:19:"2016-03-15 12:03:11";s:12:"post_content";s:1256:"At Bricks R Us, we care about our customers, so we've created <strong>another</strong> free service.
+
+We will customize the video below for your organization's brick campaign.  Use it on your own website, Facebook and any other social media site.
+
+Our team wants to help you market your fundraisers and make them successful. The video we create for you will speak to your engraved brick fundraising project, your organization, the reason behind your project and the goals you have set.
+
+There is no charge for this service. This is just another way for us to thank you and to help you be successful in your engraved brick fundraiser. Check out the example below of the type of video we can do for you.
+
+To request it, just log into your account within the Online Ordering System and find the menu item "Donor Video Request".  Our turnaround time will typically require one <strong>week.</strong>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube-nocookie.com/embed/n6EdliUWTdU?rel=0&amp;controls=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>";s:10:"post_title";s:11:"Donor Video";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:61:"market-your-engraved-brick-fundraiser-with-a-free-donor-video";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-05-18 09:57:11";s:17:"post_modified_gmt";s:19:"2017-05-18 13:57:11";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:9;s:4:"guid";s:38:"http://www.bricksrus.com/?page_id=2607";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

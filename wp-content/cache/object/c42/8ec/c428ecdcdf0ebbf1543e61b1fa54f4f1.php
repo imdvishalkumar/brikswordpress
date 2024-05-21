@@ -1,0 +1,14 @@
+ÓvLf<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:6227;s:11:"post_author";s:2:"15";s:9:"post_date";s:19:"2023-05-30 15:58:15";s:13:"post_date_gmt";s:19:"2023-05-30 19:58:15";s:12:"post_content";s:1913:"Part of organizing a successful brick fundraiser is to raise awareness about your cause and your fundraising campaign. Bricks R Us has more than 25 years of experience in helping organizations plan their fundraisers; this includes helping them with their marketing efforts. As your partners for your upcoming fundraiser, we would like to help by providing you with order forms and free trifold brick fundraising brochures.
+
+If you have a particular type of brochure in mind other than a trifold brochure, feel free to show us a sample and we will do our best to accommodate you. You can <a href="https://www.bricksrus.com/contact/">email us</a> the sample you have in mind, or call our customer service. Our main goal is to help your brick fundraiser succeed!
+<h3>Creating the Brochures</h3>
+To create the brochure for your organization, log into your account within the <a href="https://www.bricksrus.com/services/online-ordering/">Online Ordering System</a> and click on the brochure menu bar. You will need to complete the brochure questionnaire available on the page. Our team at Bricks R Us will use your information to create a professional template of the brochure.
+
+Keep in mind that Bricks R Us does not print the brochures. Our team will email you the PDF template within seven business days after you submit your brochure request.
+
+When submitting your brochure request, please include your organizationâ€™s logo (if applicable), pictures, and at least two paragraphs explaining the campaign.
+
+Do you have any other questions about our brochure services? Give us a call at 888-MY-BRICK!
+
+<center><a href="https://www.bricksrus.com/wp-content/uploads/2015/07/one.pdf">Side 1 Sample</a>
+<center><a href="https://www.bricksrus.com/wp-content/uploads/2015/07/two.pdf">Side 2 Sample</a></center></center><img src="https://www.bricksrus.com/data/360/product/brochure-comp.png" alt="Brochures" />";s:10:"post_title";s:44:"Promote Your Brick Fundraiser with Brochures";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:10:"brochures2";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2023-10-24 11:50:53";s:17:"post_modified_gmt";s:19:"2023-10-24 15:50:53";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:39:"https://www.bricksrus.com/?page_id=6227";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

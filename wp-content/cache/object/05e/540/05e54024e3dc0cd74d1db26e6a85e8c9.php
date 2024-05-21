@@ -1,0 +1,11 @@
+ÓvLf<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:303;s:11:"post_author";s:2:"12";s:9:"post_date";s:19:"2015-07-20 13:24:57";s:13:"post_date_gmt";s:19:"2015-07-20 17:24:57";s:12:"post_content";s:1447:"Adding a symbol or logo to your engraved brick fundraiser is a great way to enhance your brick project. When you choose to add a symbol or logo to a customized brick, you can be sure that brick will stand out from the rest. You can enhance the look of engraved bricks by including a special message along with a logo or you can have your logo or a symbol engraved on a brick as a single design. Regardless of the option you choose, your brick will be an eye-catching addition to the brick project.
+
+We can engrave a customized logo or one of our stock logos to your brick for an additional fee. There is a one-time setup fee for this service, but once your logo is in our system, the fee is only five dollars per brick.
+
+There are many ways you can add a custom logo or symbol to an engraved brick project.Â You can choose to offer various brick sizes for your project and incorporate the logo on larger bricks. Another option would be to use a variety of colors for your bricks and incorporate a set amount to have logos engraved on them.
+
+If you are not sure how you can incorporate a symbol or logo into your engraved brick fundraiser, just reach out to us via our <a href="/contact/">contact form</a> or by giving us a call at 888-MY-BRICK. We are here to help you create a successful fundraiser for your organization.
+
+[symbols]
+
+* <span class="auto-style1">Symbols in this category need to be on an 8x8 or larger brick/tile.</span>";s:10:"post_title";s:7:"Symbols";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:7:"symbols";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2019-05-31 10:49:28";s:17:"post_modified_gmt";s:19:"2019-05-31 14:49:28";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:11;s:4:"guid";s:37:"http://www.bricksrus.com/?page_id=303";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

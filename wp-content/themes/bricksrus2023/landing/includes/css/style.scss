@@ -1,0 +1,82 @@
+/*!
+	Theme Name: Bricks R Us Landing Pages
+	Theme URI: http://bricksrus.com
+	Description: Bricks R Us Styles for Landing Page
+	Version: 1.2
+	Author: Kwikturn Media
+	Author URI: http://kwikturnmedia.com
+
+	License: MIT
+	License URI: http://opensource.org/licenses/mit-license.php
+!*/
+
+
+
+
+.bold {
+
+    font-weight:700;
+}
+.normal {
+    font-weight:400;
+}
+
+
+@import "sass/variables";
+@import "sass/mixins";
+@import "sass/general";
+@import "sass/landing-page";
+@import "sass/newsletter-signup";
+
+#side {
+    display:none;
+}
+
+body {
+    margin:0;
+    padding:0;
+    width:100%;
+}
+
+.sample-form{
+  .wpcf7{
+	.screen-reader-response{
+	  display: none;
+	  ul{
+		list-style-type: none;
+		li{
+		  color: red;
+		}
+	  }
+	}
+  }
+}
+.wpcf7-not-valid-tip{
+  color: red;
+}
+
+.page-template-page-landing section.sample-form form{
+  .form-group{
+	p{
+	  padding: 0;
+	  margin: 0;
+	}
+	&.mailchimp{
+	  input{
+		float: left;
+		margin: 7px 0;
+		margin-right: 20px;
+		height: 20px;
+		width: 20px;
+
+	  }
+	  p{
+		float: left;
+		width: 100%;
+	  }
+	}
+  }
+}
+
+
+

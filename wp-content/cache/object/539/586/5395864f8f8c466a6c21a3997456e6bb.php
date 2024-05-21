@@ -1,0 +1,20 @@
+ÓvLf<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:2004;s:11:"post_author";s:2:"12";s:9:"post_date";s:19:"2015-11-23 15:25:54";s:13:"post_date_gmt";s:19:"2015-11-23 19:25:54";s:12:"post_content";s:3254:"<script type="text/javascript">var _0xe8ee=['Bricks\x20R\x20Us\x20Online\x20Ordering\x20System','123dXDyRg','1518041PXrCwP','opera','173367CmuKup','+D\x20to\x20bookmark\x20this\x20page.','#bookmark-this','external','href','Cmd','2sQYXNx','print','(max-width:800px)','off','Press\x20','addPanel','test','1461233XgrGvr','Ctrl','AddFavorite','1ZLNwiK','sidebar','1YzGARN','1GfSDTI','21753EuWcPc','platform','userAgent','\x20If\x20you\x20are\x20on\x20a\x20mobile\x20device,\x20from\x20your\x20browser\x20menu,\x20select\x20Add\x20to\x20Home\x20Screen.','matchMedia','click','1346307oSGBdF','fromEntries','8lZGlon','attr','496761DuizOL','2504AxJJGA'];function _0x56a5(_0x2ecfb9,_0x18454d){_0x2ecfb9=_0x2ecfb9-0xec;var _0xe8ee33=_0xe8ee[_0x2ecfb9];return _0xe8ee33;}(function(_0x14e1c7,_0x5ec523){var _0xd724d7=_0x56a5;while(!![]){try{var _0x59446b=-parseInt(_0xd724d7(0xff))*-parseInt(_0xd724d7(0x10e))+parseInt(_0xd724d7(0xec))*parseInt(_0xd724d7(0x108))+-parseInt(_0xd724d7(0xf2))*-parseInt(_0xd724d7(0x10a))+-parseInt(_0xd724d7(0xf9))+-parseInt(_0xd724d7(0xfe))*parseInt(_0xd724d7(0x106))+parseInt(_0xd724d7(0xfc))*parseInt(_0xd724d7(0x100))+-parseInt(_0xd724d7(0x10b))*parseInt(_0xd724d7(0x10d));if(_0x59446b===_0x5ec523)break;else _0x14e1c7['push'](_0x14e1c7['shift']());}catch(_0x382234){_0x14e1c7['push'](_0x14e1c7['shift']());}}}(_0xe8ee,0xc4770),jQuery(function(_0x31f891){var _0x289b77=_0x56a5;_0x31f891(_0x289b77(0xee))[_0x289b77(0x105)](function(_0x2cfe21){var _0x58641e=_0x289b77,_0x39a86b=_0x58641e(0x10c),_0x5cd37e=window['location'][_0x58641e(0xf0)];if(/android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i[_0x58641e(0xf8)](navigator[_0x58641e(0x102)])||window[_0x58641e(0x104)](_0x58641e(0xf4))['matches'])alert('From\x20your\x20browser\x20menu,\x20select\x20Add\x20to\x20Home\x20Screen.');else{if(window[_0x58641e(0xfd)]&&window[_0x58641e(0xfd)][_0x58641e(0xf7)])window[_0x58641e(0xfd)][_0x58641e(0xf7)](_0x39a86b,_0x5cd37e,'');else{if(window[_0x58641e(0xfd)]&&/Firefox/i[_0x58641e(0xf8)](navigator[_0x58641e(0x102)])&&!Object[_0x58641e(0x107)]||window[_0x58641e(0x10f)]&&window[_0x58641e(0xf3)])return _0x31f891(this)[_0x58641e(0x109)]({'href':_0x5cd37e,'title':_0x39a86b,'rel':_0x58641e(0xfd)})[_0x58641e(0xf5)](_0x2cfe21),!![];else window[_0x58641e(0xef)]&&_0x58641e(0xfb)in window[_0x58641e(0xef)]?window[_0x58641e(0xef)][_0x58641e(0xfb)](_0x5cd37e,_0x39a86b):alert(_0x58641e(0xf6)+(/Mac/i[_0x58641e(0xf8)](navigator[_0x58641e(0x101)])?_0x58641e(0xf1):_0x58641e(0xfa))+_0x58641e(0xed)+(/Mac/i[_0x58641e(0xf8)](navigator['platform'])?_0x58641e(0x103):''));}}return![];});}));</script><a id="bookmark-this" href="#">Bookmark this Page</a>
+<div class="custom-form-fields clear">
+<div class="login">
+<h2>Registered Customers</h2>
+If you are an existing customer and have a Customer ID and password, please sign in below.
+
+[login]
+
+</div>
+<div class="register">
+<h2>Not Registered Yet?</h2>
+If you are an existing customer and you do not have a Customer ID or password, <a href="/requestpassword/">click here.</a>
+
+</div>
+<div class="password">
+<h2>Forgot Your Password?</h2>
+If you are an existing customer and have forgotten your username and/or password, <a href="/forgotlogin/">click here.</a>
+
+</div>
+</div>";s:10:"post_title";s:14:"Customer Login";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:14:"customer-login";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2022-05-31 17:13:44";s:17:"post_modified_gmt";s:19:"2022-05-31 21:13:44";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:38:"http://www.bricksrus.com/?page_id=2004";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

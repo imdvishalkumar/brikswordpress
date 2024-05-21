@@ -1,0 +1,1 @@
+]ÉLf<?php exit; ?>a:1:{s:7:"content";a:1:{i:0;s:70:"C:\inetpub\wwwroot/wp-content/plugins/wordfence/languages/wordfence.mo";}}

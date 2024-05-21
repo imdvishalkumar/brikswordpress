@@ -1,0 +1,34 @@
+�vLf<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:7;s:11:"post_author";s:2:"12";s:9:"post_date";s:19:"2015-07-13 15:26:47";s:13:"post_date_gmt";s:19:"2015-07-13 19:26:47";s:12:"post_content";s:5831:"<h3>Engraved Bricks for Fundraising</h3>
+Why do so many organizations use Bricks R Us instead of other engraved brick companies? It's our free services, customer support, high-quality products, and the tools that we provide to assist them in having a successful campaign. We list all of our prices - no surprises! Read on to learn why you should be working with us!
+<h3>We Walk You Through the Brick Fundraising Process</h3>
+If an engraved brick fundraiser is new to you, contact one of our <a href="/contact/">customer service representatives</a>. The Bricks R Us team will guide throughout the entire process, so you will not feel like you are doing this alone. Organizations and companies depend on the money received from engraved bricks to pay for needed items and we take that very seriously. We will ensure you are comfortable with this type of fundraising at all times. If this isn't a fundraiser, we will still provide the tools and knowledge to help you organize your project.
+<h3>The Advantages of Using Engraved Bricks</h3>
+You determine the price for which each individually personalized engraved brick or tile will be sold. Bricks R Us will provide you with our low net price per inscribed item. The difference between those two costs is the direct profit to the charity or project of your choice. Best of all, your donor's name or inscription is literally "set in stone" for a lifetime.
+
+Personalized engraved bricks or tiles can be installed in many places, affording you the opportunity to get creative with your fundraising campaign. Without any upfront costs or leftover inventory, a brick fundraiser provides you and your donors with an affordable way to raise money. In addition, a brick fundraiser can be ongoing for years if you wish. As a result, you’ll have a permanent memorial from your donors to your organization.
+
+How much money can be raised? Bricks have sold for $50 to $1,000. Remember, your cost stays the same.
+<h3>Bricks R Us Offers More Than Just Brick Engraving</h3>
+Bricks R Us services extend beyond our engraving capabilities. We've created consulting services to ensure the success of your campaign. These include marketing, public relations, order forms, mapping and tracking systems, an array of sales-related services, and an <a href="/services/online-ordering/">online ordering system</a>.
+
+Personalized engraved bricks and tiles by Bricks R Us, in the shape and size of your choice, can help you raise funds and provide donor recognition at the same time. We offer a wide variety of type, design styles and letter sizes. They are available to engrave on clay or concrete bricks, tile products and even benches! This creates a truly distinctive look that is tailored to an exciting and meaningful project. The purpose is valid, the method is easy, and your profits are great!
+
+Charities, religious institutions, hospitals, animal organizations, government buildings, schools and colleges, and civic organizations can benefit from this proven method of painless fundraising.
+<h3>You Can Expect Outstanding Customer Service</h3>
+We believe that our customer service is what sets us apart from any other company. Raising funds using engraved bricks is an easy way to raise money as long as you have the right support group. This is why we have our 24-hour policy - since we strive to give you the best customer service available, we will always respond to your phone calls or emails within 24 hours. When you send us an order, you will receive a proof sheet within 24 hours. When you send in the approved proof sheet, we will give you the actual shipping date within 24 hours (if you use our online ordering system, you can pick your own shipping date). When we receive your payment, you will receive a confirmation payment email within 24 hours. When we ship your order, you will receive your tracking information within 24 hours.
+
+This is our way of ensuring that you are informed throughout the entire process.
+<h3>Our Website Was Built for You</h3>
+We have designed our website with our customer in mind. When you browse through our web pages, all of your questions will be answered in regards to raising funds using a brick fundraiser.
+
+We are the only brick engraving company that lists our complete prices, and our <a href="/faq/">Frequently Asked Questions</a> page has been designed from all of the questions that we receive; we continue to update it as we receive new questions. With over 25 years in the business, we are one of the oldest engraved brick companies around, and our customer service is the best of all brick companies; ask us a question and see how fast we respond! When viewing our product pages, if you do not see a brick that you are looking for, let us know; we’ll be happy to work with you to find the perfect brick product!
+<h2>Contact Us for Your Next Fundraising Project!</h2>
+Although inscription campaigns are not new, Bricks R Us is the only company that combines computer generated engraving technology and high volume production capacity with our extensive control and tracking system for outstanding accuracy.
+
+If fundraising is in your future, Bricks R Us offers you today's best pathway to success. Our team knows what works and we can make it work for you. Best of all, you can create a new sidewalk or wall at no cost to you and raise funds at the same time.
+
+We are based in Miami, Florida and ship throughout the world; our prices include free shipping (within the Continental U.S.). Fundraising is a serious business and we strive to make every customer's experience the very best.
+
+Contact a Bricks R Us <a href="/contact/">marketing representative</a> for information on the future of fundraising for your business, government, school, hospital or nonprofit organization.
+
+We appreciate you stopping by!";s:10:"post_title";s:5:"About";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:5:"about";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2015-11-04 17:57:43";s:17:"post_modified_gmt";s:19:"2015-11-04 21:57:43";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:13;s:4:"guid";s:35:"http://www.bricksrus.com/?page_id=7";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}
